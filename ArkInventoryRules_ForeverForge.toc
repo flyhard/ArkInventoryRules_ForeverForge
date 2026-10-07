@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: ArkInventory [Rules] ForeverForge
+## Notes: ArkInventory rule functions that sort items by ForeverForge Auction's recommendation: Vendor, Disenchant or Post on AH.
+## Author: flyhard
+## Version: @project-version@
+## RequiredDeps: ArkInventoryRules, ForeverForge_Auction
+## X-License: MIT
+
+ArkInventoryRules_ForeverForge.lua

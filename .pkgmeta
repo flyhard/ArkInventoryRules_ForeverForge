@@ -1,0 +1,4 @@
+package-as: ArkInventoryRules_ForeverForge
+
+ignore:
+  - .github
